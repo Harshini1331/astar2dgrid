@@ -1,4 +1,5 @@
-# A* Path Finding Algorithm for 2D Grid World
+# <p align="center">A* Path Finding Algorithm for 2D Grid World</p> 
+
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -28,10 +29,9 @@ The algorithm finds the best optimal solution.
 <img width="624" alt="image" src="https://user-images.githubusercontent.com/75235554/168870645-f16ae6d2-e09b-4b8d-8761-c2005da49bec.png">
 
 ## PROGRAM
-
-Developed by : Harshini M<br>
-Registration Number : 212220230022
-
+#### Developed by
+#### Register Number: 212220230022
+#### Name: Harshini M
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
